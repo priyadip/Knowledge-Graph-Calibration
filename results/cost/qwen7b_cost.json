@@ -1,0 +1,68 @@
+{
+ "tag": "qwen7b",
+ "model": "Qwen/Qwen2.5-7B",
+ "gpu": "NVIDIA L40S",
+ "torch": "2.7.1+cu126",
+ "configs": [
+  {
+   "config": "dense",
+   "params": 7615616512,
+   "ffn_params": 5703204864,
+   "weights_gb": 14.227184295654297,
+   "prefill_b1_s": 0.04779450735077262,
+   "prefill_b1_tok_s": 10712.528036795913,
+   "prefill_b16_s": 0.6458028755150735,
+   "prefill_b16_tok_s": 12684.985326933238,
+   "decode_b1_s": 2.93074260186404,
+   "decode_b1_tok_s": 43.674937511942595,
+   "decode_b1_ms_per_token": 22.89642657706281,
+   "decode_b32_s": 3.791637074202299,
+   "decode_b32_tok_s": 1080.2721673623612,
+   "decode_b32_ms_per_token": 29.622164642205462,
+   "peak_gb": 15.758865356445312
+  },
+  {
+   "config": "70%",
+   "params": 5904546816,
+   "ffn_params": 3992034816,
+   "weights_gb": 11.011382102966309,
+   "prefill_b1_s": 0.04363392340019345,
+   "prefill_b1_tok_s": 11733.989522421218,
+   "prefill_b16_s": 0.646197009831667,
+   "prefill_b16_tok_s": 12677.248386113703,
+   "decode_b1_s": 2.3891154127195477,
+   "decode_b1_tok_s": 53.57631503213847,
+   "decode_b1_ms_per_token": 18.664964161871467,
+   "decode_b32_s": 3.219214371405542,
+   "decode_b32_tok_s": 1272.3601249989588,
+   "decode_b32_ms_per_token": 25.150112276605796,
+   "peak_gb": 12.381387710571289,
+   "ffn_keep": 0.6999634260376448
+  },
+  {
+   "config": "50%",
+   "params": 4764576768,
+   "ffn_params": 2852064768,
+   "weights_gb": 8.885547637939453,
+   "prefill_b1_s": 0.03564696805551648,
+   "prefill_b1_tok_s": 14363.072876285376,
+   "prefill_b16_s": 0.5215937751345336,
+   "prefill_b16_tok_s": 15705.708907064802,
+   "decode_b1_s": 2.0414449963718653,
+   "decode_b1_tok_s": 62.7006851654032,
+   "decode_b1_ms_per_token": 15.948789034155197,
+   "decode_b32_s": 2.7024045838043094,
+   "decode_b32_tok_s": 1515.687186347892,
+   "decode_b32_ms_per_token": 21.112535810971167,
+   "peak_gb": 10.104825973510742,
+   "ffn_keep": 0.5000810659990348
+  }
+ ],
+ "compression": {
+  "tokens": 65536,
+  "pack_s": 0.42540555261075497,
+  "statistics_s": 122.46964090876281,
+  "select_repair_s": 100.71370198670775,
+  "total_min": 3.7268124741346886
+ }
+}

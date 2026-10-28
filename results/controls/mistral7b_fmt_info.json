@@ -1,0 +1,14 @@
+{
+ "tag": "mistral7b",
+ "exp": "fmt",
+ "bos": 1,
+ "kg_text_tokens": 32704,
+ "facts": 1840,
+ "tokens": {
+  "QA_S": 32694,
+  "D_S": 23832,
+  "D_Srep": 32686
+ },
+ "D_Srep_lines": 2520,
+ "D_Srep_facts_twice": 680
+}

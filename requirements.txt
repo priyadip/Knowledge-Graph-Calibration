@@ -1,0 +1,13 @@
+# Python 3.13; the versions of every run of the paper (PyTorch built for CUDA 12.6)
+torch==2.7.1
+transformers==5.15.0
+tokenizers==0.22.2
+safetensors==0.8.0
+accelerate==1.13.0
+datasets==4.8.4
+huggingface_hub==1.8.0
+numpy==2.2.6
+scipy==1.17.1
+scikit-learn==1.7.2
+matplotlib==3.10.8
+pillow==12.1.1

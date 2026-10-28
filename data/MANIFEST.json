@@ -1,0 +1,157 @@
+{
+ "calib/KG-A.jsonl": {
+  "sha256": "72662f6c9756ee4ae90a0856d4a913c66960a393db3a1c5174c9d6f2e92c99f3",
+  "lines": 173665,
+  "bytes": 9750478
+ },
+ "calib/KG-Ac.jsonl": {
+  "sha256": "d70c4babe41e76563857f837cf9a7c5530f63d7019699e4c3bf5febcce19dd30",
+  "lines": 130436,
+  "bytes": 7263591
+ },
+ "calib/KG-D.jsonl": {
+  "sha256": "daa425bb0e4f6901d9238eba4ada760b553c786b78394146e14dee20d69e22f0",
+  "lines": 7139,
+  "bytes": 345106
+ },
+ "calib/KG-D~.jsonl": {
+  "sha256": "a66168fcb24c4c8a8769f961117173bb469cdeaf2d2ca559e8b4b22a9aa168e7",
+  "lines": 7139,
+  "bytes": 344212
+ },
+ "calib/KG-O.jsonl": {
+  "sha256": "77e72767dd312fd2504b739d4367db5ee546619f771c5f22555611c9c467a179",
+  "lines": 156065,
+  "bytes": 8888029
+ },
+ "calib/KG-O2.jsonl": {
+  "sha256": "c29b0561f982cc505dd04823a5004ff4734dcf4e613a0fef1f23be219e6a85e1",
+  "lines": 156065,
+  "bytes": 8704289
+ },
+ "calib/KG-QA.jsonl": {
+  "sha256": "9c0c4a517bb6c12c5a19620e33c5c57e9e71646c51ca718802ffd2cbb8d10899",
+  "lines": 7139,
+  "bytes": 413940
+ },
+ "calib/KG-QA~.jsonl": {
+  "sha256": "0374f2899d29f4fd4c1414ff17c253950ba01117e7d3abf7b63c179abcfa9f0f",
+  "lines": 7139,
+  "bytes": 412460
+ },
+ "calib/KG-S.jsonl": {
+  "sha256": "ef86fe87bcaa557629da50dcf3bbc874ce15a11835c6f2dfae3ade201eac3b13",
+  "lines": 7139,
+  "bytes": 364985
+ },
+ "calib/WIKI.jsonl": {
+  "sha256": "df75add5703431d76f86807ff0d9f379f3cd65827e3063178040994d2c178579",
+  "lines": 6463,
+  "bytes": 2262693
+ },
+ "calib_eq/EQ-D.jsonl": {
+  "sha256": "2061fe77c45b15f51d9d77deab8307ac771efc03a738594ea993c50c861211bf",
+  "lines": 7200,
+  "bytes": 365428
+ },
+ "calib_eq/EQ-D~.jsonl": {
+  "sha256": "e2ecb31ae6274016e61804a1f6b9dfb8239b5c092d07665796bfb9d7d90ad397",
+  "lines": 7200,
+  "bytes": 362428
+ },
+ "calib_eq/EQ-QA.jsonl": {
+  "sha256": "fa7aacd510f32c4b92ef3f415e27d6f5e003ffde2f3bf0a3faf42af76c38993c",
+  "lines": 7200,
+  "bytes": 438228
+ },
+ "calib_eq/EQ-QA~.jsonl": {
+  "sha256": "63eeeea7531ba9cd5732b8af7729ba9ff8f9accf662c536abb7de817bf3d6452",
+  "lines": 7200,
+  "bytes": 435228
+ },
+ "calib_eq/MANIFEST.json": {
+  "sha256": "5182c08614421a50e2968a238a25d44c3bd685bc3dc48e200024bd26fb993fbc",
+  "lines": 43,
+  "bytes": 1352
+ },
+ "calib_paired/KG-D~.jsonl": {
+  "sha256": "a3d8c61409e39cea34f944242e7475ce7b67aec71784c86673784127941e3905",
+  "lines": 7139,
+  "bytes": 344212
+ },
+ "calib_paired/KG-QA~.jsonl": {
+  "sha256": "0728a772c65d3fa48bf974ffa1f499343bee0255adc57a08144f49a91ac5fdb2",
+  "lines": 7139,
+  "bytes": 412460
+ },
+ "calib_paired/KG-S.jsonl": {
+  "sha256": "fee486088be68d0254cb8ebe4ebb72865d26e00680acdaf4444245f5f5156194",
+  "lines": 7139,
+  "bytes": 364985
+ },
+ "controls/MANIFEST.json": {
+  "sha256": "5f7af5d2552bc6b3713af8270ac43cfa0d85053ec13e09306579d62d229b6027",
+  "lines": 19,
+  "bytes": 541
+ },
+ "controls/fmt_facts.json": {
+  "sha256": "c831d77456ed8bb29a6888578af6d95e6f2a44e549301406fb635a0347d977e0",
+  "lines": 0,
+  "bytes": 1030794
+ },
+ "controls/test_mc.json": {
+  "sha256": "e653e1e818c5c617445dd56ece82a9bfaff0023eee68574fa2007f9f9832e47d",
+  "lines": 0,
+  "bytes": 513354
+ },
+ "controls/truth_variants.json": {
+  "sha256": "0b31dd9254bdd2c105e5dc2165f335550ee42aa1f7f864fe6fde461303eec408",
+  "lines": 0,
+  "bytes": 2119834
+ },
+ "entityquestions/eq_test_sample.json": {
+  "sha256": "c1ecea9dc20fbea4ccd27950bb206c150e69d0411ecdd865f01a450f51db5dbb",
+  "lines": 32383,
+  "bytes": 905844
+ },
+ "popqa/leakage.json": {
+  "sha256": "35e134772fd71d96c4c256f531f59f64d590cf6d951563c8a6674477ec3a45ab",
+  "lines": 9,
+  "bytes": 142
+ },
+ "popqa/leakage_flags.json": {
+  "sha256": "62ac8851445a404872289f8bb0bb245060949c443c6b267feb8d8e47f2527cb5",
+  "lines": 0,
+  "bytes": 116401
+ },
+ "popqa/leakage_strict.json": {
+  "sha256": "09e726832a1c580c7421b7e34ef45614e5108fd6910e27a14543cfc03874416f",
+  "lines": 6,
+  "bytes": 154
+ },
+ "popqa/popqa_split.json": {
+  "sha256": "89528b8d7e6bb7618a6bacaac3f157af8e0a55aff27dee9608ba382679faa9e7",
+  "lines": 0,
+  "bytes": 142877
+ },
+ "wikidata/property_labels.json": {
+  "sha256": "dd55d09df3855f1cf1f49d3ca0dca0cb2fcd37173108967edd9af0566085d47c",
+  "lines": 0,
+  "bytes": 20809
+ },
+ "wikidata/statements.json": {
+  "sha256": "f85fb5777fa71b211f74017e49a85f71b81dc55cbe8a50220180ac13a217c4bc",
+  "lines": 0,
+  "bytes": 12432854
+ },
+ "wikidata/types.json": {
+  "sha256": "3e542d18d2277f8bab534a5d3e27429d72ab699e6dbad9f06c77c7418599e808",
+  "lines": 0,
+  "bytes": 179049
+ },
+ "wikidata/wiki_summaries.json": {
+  "sha256": "102d1e125ac16f2fa641d758579b865198e1c37654d99700b647b96cea2cbfa5",
+  "lines": 0,
+  "bytes": 2014273
+ }
+}

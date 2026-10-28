@@ -1,0 +1,9 @@
+{"tag": "mistral7b", "exp": "fmt", "key": "1.0|dense", "test_q_acc": 0.2618629173989455, "test_c_acc": 0.22442882249560633, "ppl_wikitext2": 6.661899919831189, "secs": 333.6}
+{"tag": "mistral7b", "exp": "fmt", "key": "0.7|C4|C4", "test_q_acc": 0.09876977152899824, "test_c_acc": 0.07293497363796134, "ppl_wikitext2": 12.770686483201587, "secs": 310.0}
+{"tag": "mistral7b", "exp": "fmt", "key": "0.7|QA_S", "test_q_acc": 0.1859402460456942, "test_c_acc": 0.14973637961335676, "ppl_wikitext2": 12.975242678526365, "secs": 311.3}
+{"tag": "mistral7b", "exp": "fmt", "key": "0.7|D_S", "test_q_acc": 0.19121265377855887, "test_c_acc": 0.15975395430579964, "ppl_wikitext2": 12.972569507924149, "secs": 308.3}
+{"tag": "mistral7b", "exp": "fmt", "key": "0.7|D_Srep", "test_q_acc": 0.19226713532513182, "test_c_acc": 0.16063268892794377, "ppl_wikitext2": 13.045096487852481, "secs": 308.7}
+{"tag": "mistral7b", "exp": "fmt", "key": "0.5|C4|C4", "test_q_acc": 0.012126537785588752, "test_c_acc": 0.008084358523725835, "ppl_wikitext2": 24.328978608271484, "secs": 262.1}
+{"tag": "mistral7b", "exp": "fmt", "key": "0.5|QA_S", "test_q_acc": 0.11036906854130053, "test_c_acc": 0.070298769771529, "ppl_wikitext2": 24.549742267931087, "secs": 261.6}
+{"tag": "mistral7b", "exp": "fmt", "key": "0.5|D_S", "test_q_acc": 0.11476274165202109, "test_c_acc": 0.09050966608084358, "ppl_wikitext2": 24.527680640029082, "secs": 264.4}
+{"tag": "mistral7b", "exp": "fmt", "key": "0.5|D_Srep", "test_q_acc": 0.11687170474516696, "test_c_acc": 0.09173989455184535, "ppl_wikitext2": 24.64263364719587, "secs": 231.1}

@@ -1,0 +1,14 @@
+{"tag": "mistral7b", "key": "0.7|C4|C4", "eq_acc": 0.09229429690901175, "test_q_acc": null, "param_keep": 0.7668101882017726, "secs": 62.7}
+{"tag": "mistral7b", "key": "0.7|C4|MIX:EQ-D", "eq_acc": 0.12015672616456247, "test_q_acc": null, "param_keep": 0.7668101882017726, "secs": 62.9}
+{"tag": "mistral7b", "key": "0.7|MIX:EQ-D|none", "eq_acc": 0.1893774488463213, "test_q_acc": null, "param_keep": 0.7668101882017726, "secs": 62.7}
+{"tag": "mistral7b", "key": "0.7|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.1887244231606443, "test_q_acc": null, "param_keep": 0.7668101882017726, "secs": 63.1}
+{"tag": "mistral7b", "key": "0.7|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.18632999564649544, "test_q_acc": null, "param_keep": 0.7668101882017726, "secs": 63.1}
+{"tag": "mistral7b", "key": "0.7|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.17718763604701784, "test_q_acc": null, "param_keep": 0.7668101882017726, "secs": 63.0}
+{"tag": "mistral7b", "key": "0.7|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.174140182847192, "test_q_acc": null, "param_keep": 0.7668101882017726, "secs": 63.0}
+{"tag": "mistral7b", "key": "0.5|C4|C4", "eq_acc": 0.02285589899869395, "test_q_acc": null, "param_keep": 0.6109795952274522, "secs": 53.3}
+{"tag": "mistral7b", "key": "0.5|C4|MIX:EQ-D", "eq_acc": 0.04114061819764911, "test_q_acc": null, "param_keep": 0.6109795952274522, "secs": 53.4}
+{"tag": "mistral7b", "key": "0.5|MIX:EQ-D|none", "eq_acc": 0.09033521985198084, "test_q_acc": null, "param_keep": 0.6109795952274522, "secs": 53.0}
+{"tag": "mistral7b", "key": "0.5|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.08794079233783196, "test_q_acc": null, "param_keep": 0.6109795952274522, "secs": 53.2}
+{"tag": "mistral7b", "key": "0.5|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.09512407488027863, "test_q_acc": null, "param_keep": 0.6109795952274522, "secs": 53.4}
+{"tag": "mistral7b", "key": "0.5|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.09077057030909882, "test_q_acc": null, "param_keep": 0.6109795952274522, "secs": 53.3}
+{"tag": "mistral7b", "key": "0.5|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.09120592076621681, "test_q_acc": null, "param_keep": 0.6109795952274522, "secs": 53.3}

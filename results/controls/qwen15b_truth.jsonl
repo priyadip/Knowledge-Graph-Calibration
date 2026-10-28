@@ -1,0 +1,17 @@
+{"tag": "qwen15b", "exp": "truth", "key": "1.0|dense", "test_q_acc": 0.16274165202108964, "test_c_acc": 0.09103690685413006, "ppl_wikitext2": 10.487086775683352, "secs": 115.7}
+{"tag": "qwen15b", "exp": "truth", "key": "0.7|C4|C4", "test_q_acc": 0.08488576449912126, "test_c_acc": 0.045166959578207384, "ppl_wikitext2": 22.695653458077846, "secs": 107.5}
+{"tag": "qwen15b", "exp": "truth", "key": "0.7|V0", "test_q_acc": 0.11581722319859403, "test_c_acc": 0.06625659050966608, "ppl_wikitext2": 30.05829424012861, "secs": 107.6}
+{"tag": "qwen15b", "exp": "truth", "key": "0.7|V25", "test_q_acc": 0.12021089630931459, "test_c_acc": 0.06766256590509666, "ppl_wikitext2": 30.262341285252933, "secs": 107.6}
+{"tag": "qwen15b", "exp": "truth", "key": "0.7|V50", "test_q_acc": 0.11581722319859403, "test_c_acc": 0.06678383128295255, "ppl_wikitext2": 30.310767185447002, "secs": 107.6}
+{"tag": "qwen15b", "exp": "truth", "key": "0.7|V75", "test_q_acc": 0.11757469244288225, "test_c_acc": 0.06608084358523726, "ppl_wikitext2": 30.276686282414666, "secs": 108.2}
+{"tag": "qwen15b", "exp": "truth", "key": "0.7|V100", "test_q_acc": 0.11616871704745167, "test_c_acc": 0.06590509666080843, "ppl_wikitext2": 30.35654732100064, "secs": 107.3}
+{"tag": "qwen15b", "exp": "truth", "key": "0.7|VX", "test_q_acc": 0.1156414762741652, "test_c_acc": 0.06695957820738137, "ppl_wikitext2": 30.06743778863942, "secs": 107.0}
+{"tag": "qwen15b", "exp": "truth", "key": "0.7|VC", "test_q_acc": 0.12021089630931459, "test_c_acc": 0.06783831282952549, "ppl_wikitext2": 29.600651969272377, "secs": 107.0}
+{"tag": "qwen15b", "exp": "truth", "key": "0.5|C4|C4", "test_q_acc": 0.05992970123022847, "test_c_acc": 0.04147627416520211, "ppl_wikitext2": 37.28270155789851, "secs": 95.6}
+{"tag": "qwen15b", "exp": "truth", "key": "0.5|V0", "test_q_acc": 0.09279437609841827, "test_c_acc": 0.053075571177504395, "ppl_wikitext2": 49.491874287420444, "secs": 95.4}
+{"tag": "qwen15b", "exp": "truth", "key": "0.5|V25", "test_q_acc": 0.09595782073813708, "test_c_acc": 0.05360281195079086, "ppl_wikitext2": 49.125772148858815, "secs": 95.5}
+{"tag": "qwen15b", "exp": "truth", "key": "0.5|V50", "test_q_acc": 0.09384885764499121, "test_c_acc": 0.053075571177504395, "ppl_wikitext2": 46.81999253466401, "secs": 95.8}
+{"tag": "qwen15b", "exp": "truth", "key": "0.5|V75", "test_q_acc": 0.09367311072056239, "test_c_acc": 0.0546572934973638, "ppl_wikitext2": 46.38199974087272, "secs": 95.5}
+{"tag": "qwen15b", "exp": "truth", "key": "0.5|V100", "test_q_acc": 0.09560632688927943, "test_c_acc": 0.05289982425307557, "ppl_wikitext2": 46.51161758441571, "secs": 66.8}
+{"tag": "qwen15b", "exp": "truth", "key": "0.5|VX", "test_q_acc": 0.09543057996485062, "test_c_acc": 0.06010544815465729, "ppl_wikitext2": 46.902933329633676, "secs": 66.6}
+{"tag": "qwen15b", "exp": "truth", "key": "0.5|VC", "test_q_acc": 0.0977152899824253, "test_c_acc": 0.051669595782073814, "ppl_wikitext2": 44.40526464016323, "secs": 69.3}

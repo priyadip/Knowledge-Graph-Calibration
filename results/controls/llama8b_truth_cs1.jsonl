@@ -1,0 +1,17 @@
+{"tag": "llama8b", "exp": "truth", "key": "1.0|dense", "test_q_acc": 0.31687170474516696, "test_c_acc": 0.25272407732864677, "ppl_wikitext2": 7.324892266945847, "secs": 146.4}
+{"tag": "llama8b", "exp": "truth", "key": "0.7|C4|C4", "test_q_acc": 0.1031634446397188, "test_c_acc": 0.06133567662565905, "ppl_wikitext2": 18.05584052060721, "secs": 138.0}
+{"tag": "llama8b", "exp": "truth", "key": "0.7|V0", "test_q_acc": 0.1711775043936731, "test_c_acc": 0.1344463971880492, "ppl_wikitext2": 16.74592264414686, "secs": 137.2}
+{"tag": "llama8b", "exp": "truth", "key": "0.7|V25", "test_q_acc": 0.17592267135325132, "test_c_acc": 0.13251318101933215, "ppl_wikitext2": 16.732017291590314, "secs": 137.3}
+{"tag": "llama8b", "exp": "truth", "key": "0.7|V50", "test_q_acc": 0.16977152899824252, "test_c_acc": 0.13022847100175747, "ppl_wikitext2": 16.738269448415988, "secs": 137.2}
+{"tag": "llama8b", "exp": "truth", "key": "0.7|V75", "test_q_acc": 0.1710017574692443, "test_c_acc": 0.1272407732864675, "ppl_wikitext2": 16.61367014671748, "secs": 137.2}
+{"tag": "llama8b", "exp": "truth", "key": "0.7|V100", "test_q_acc": 0.17258347978910368, "test_c_acc": 0.12478031634446397, "ppl_wikitext2": 16.750229026400376, "secs": 137.2}
+{"tag": "llama8b", "exp": "truth", "key": "0.7|VX", "test_q_acc": 0.17170474516695958, "test_c_acc": 0.13110720562390157, "ppl_wikitext2": 16.50700973196222, "secs": 137.2}
+{"tag": "llama8b", "exp": "truth", "key": "0.7|VC", "test_q_acc": 0.1796133567662566, "test_c_acc": 0.13620386643233742, "ppl_wikitext2": 16.27240203143441, "secs": 136.9}
+{"tag": "llama8b", "exp": "truth", "key": "0.5|C4|C4", "test_q_acc": 0.055184534270650266, "test_c_acc": 0.009490333919156414, "ppl_wikitext2": 33.73768374467223, "secs": 115.8}
+{"tag": "llama8b", "exp": "truth", "key": "0.5|V0", "test_q_acc": 0.1156414762741652, "test_c_acc": 0.07627416520210896, "ppl_wikitext2": 31.442502218244115, "secs": 115.9}
+{"tag": "llama8b", "exp": "truth", "key": "0.5|V25", "test_q_acc": 0.11177504393673111, "test_c_acc": 0.07838312829525483, "ppl_wikitext2": 31.258453965951542, "secs": 115.8}
+{"tag": "llama8b", "exp": "truth", "key": "0.5|V50", "test_q_acc": 0.1140597539543058, "test_c_acc": 0.07557117750439367, "ppl_wikitext2": 31.121041294984906, "secs": 115.9}
+{"tag": "llama8b", "exp": "truth", "key": "0.5|V75", "test_q_acc": 0.11616871704745167, "test_c_acc": 0.0766256590509666, "ppl_wikitext2": 31.008475705286127, "secs": 115.9}
+{"tag": "llama8b", "exp": "truth", "key": "0.5|V100", "test_q_acc": 0.110896309314587, "test_c_acc": 0.07750439367311072, "ppl_wikitext2": 30.998458888847576, "secs": 115.9}
+{"tag": "llama8b", "exp": "truth", "key": "0.5|VX", "test_q_acc": 0.10615114235500879, "test_c_acc": 0.07644991212653779, "ppl_wikitext2": 29.615122842801735, "secs": 115.9}
+{"tag": "llama8b", "exp": "truth", "key": "0.5|VC", "test_q_acc": 0.110896309314587, "test_c_acc": 0.07715289982425308, "ppl_wikitext2": 30.963707417403974, "secs": 115.8}

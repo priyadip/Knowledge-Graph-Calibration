@@ -1,0 +1,14 @@
+{"tag": "qwen15b", "key": "0.7|C4|C4", "eq_acc": 0.08619939050936004, "test_q_acc": null, "param_keep": 0.7753840959421465, "secs": 40.2}
+{"tag": "qwen15b", "key": "0.7|C4|MIX:EQ-D", "eq_acc": 0.09011754462342185, "test_q_acc": null, "param_keep": 0.7753840959421465, "secs": 42.5}
+{"tag": "qwen15b", "key": "0.7|MIX:EQ-D|none", "eq_acc": 0.09599477579451458, "test_q_acc": null, "param_keep": 0.7753840959421465, "secs": 40.8}
+{"tag": "qwen15b", "key": "0.7|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.10949063996517196, "test_q_acc": null, "param_keep": 0.7753840959421465, "secs": 42.9}
+{"tag": "qwen15b", "key": "0.7|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.10187200696560732, "test_q_acc": null, "param_keep": 0.7753840959421465, "secs": 43.2}
+{"tag": "qwen15b", "key": "0.7|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.11906835002176752, "test_q_acc": null, "param_keep": 0.7753840959421465, "secs": 44.0}
+{"tag": "qwen15b", "key": "0.7|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.12255115367871136, "test_q_acc": null, "param_keep": 0.7753840959421465, "secs": 43.7}
+{"tag": "qwen15b", "key": "0.5|C4|C4", "eq_acc": 0.055724858511101434, "test_q_acc": null, "param_keep": 0.6256202598482886, "secs": 38.4}
+{"tag": "qwen15b", "key": "0.5|C4|MIX:EQ-D", "eq_acc": 0.07662168045276448, "test_q_acc": null, "param_keep": 0.6256202598482886, "secs": 37.9}
+{"tag": "qwen15b", "key": "0.5|MIX:EQ-D|none", "eq_acc": 0.06987374836743579, "test_q_acc": null, "param_keep": 0.6256202598482886, "secs": 37.6}
+{"tag": "qwen15b", "key": "0.5|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.08794079233783196, "test_q_acc": null, "param_keep": 0.6256202598482886, "secs": 38.2}
+{"tag": "qwen15b", "key": "0.5|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.08141053548106225, "test_q_acc": null, "param_keep": 0.6256202598482886, "secs": 37.7}
+{"tag": "qwen15b", "key": "0.5|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.09599477579451458, "test_q_acc": null, "param_keep": 0.6256202598482886, "secs": 37.3}
+{"tag": "qwen15b", "key": "0.5|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.10078363082281236, "test_q_acc": null, "param_keep": 0.6256202598482886, "secs": 38.1}

@@ -1,0 +1,7 @@
+{
+ "test_facts": 5690,
+ "homonym_subjects": 0.1944,
+ "homonym_same_fact": 0.0039,
+ "anchor_fuzzy_answer": 0.2153,
+ "wiki_subject_answer_cooccur": 0.0654
+}

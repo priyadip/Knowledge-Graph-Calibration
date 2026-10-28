@@ -1,0 +1,17 @@
+{"tag": "phi4", "exp": "truth", "key": "1.0|dense", "test_q_acc": 0.25377855887521966, "test_c_acc": 0.23286467486818982, "ppl_wikitext2": 7.381787344782528, "secs": 263.1}
+{"tag": "phi4", "exp": "truth", "key": "0.7|C4|C4", "test_q_acc": 0.11739894551845342, "test_c_acc": 0.07416520210896309, "ppl_wikitext2": 11.603076155095879, "secs": 249.2}
+{"tag": "phi4", "exp": "truth", "key": "0.7|V0", "test_q_acc": 0.15676625659050966, "test_c_acc": 0.12161687170474517, "ppl_wikitext2": 12.858893760907963, "secs": 248.9}
+{"tag": "phi4", "exp": "truth", "key": "0.7|V25", "test_q_acc": 0.15764499121265377, "test_c_acc": 0.12021089630931459, "ppl_wikitext2": 12.74234411175886, "secs": 248.7}
+{"tag": "phi4", "exp": "truth", "key": "0.7|V50", "test_q_acc": 0.15694200351493848, "test_c_acc": 0.12003514938488577, "ppl_wikitext2": 12.528835179356925, "secs": 248.7}
+{"tag": "phi4", "exp": "truth", "key": "0.7|V75", "test_q_acc": 0.15694200351493848, "test_c_acc": 0.1210896309314587, "ppl_wikitext2": 12.745109002220154, "secs": 248.2}
+{"tag": "phi4", "exp": "truth", "key": "0.7|V100", "test_q_acc": 0.15448154657293497, "test_c_acc": 0.1195079086115993, "ppl_wikitext2": 12.777178485888797, "secs": 247.8}
+{"tag": "phi4", "exp": "truth", "key": "0.7|VX", "test_q_acc": 0.15360281195079087, "test_c_acc": 0.11704745166959578, "ppl_wikitext2": 12.41250903286617, "secs": 247.8}
+{"tag": "phi4", "exp": "truth", "key": "0.7|VC", "test_q_acc": 0.15764499121265377, "test_c_acc": 0.12196836555360281, "ppl_wikitext2": 12.032152900493072, "secs": 249.1}
+{"tag": "phi4", "exp": "truth", "key": "0.5|C4|C4", "test_q_acc": 0.08717047451669596, "test_c_acc": 0.03760984182776801, "ppl_wikitext2": 19.33488933485468, "secs": 204.3}
+{"tag": "phi4", "exp": "truth", "key": "0.5|V0", "test_q_acc": 0.11669595782073813, "test_c_acc": 0.09173989455184535, "ppl_wikitext2": 22.28787643007787, "secs": 204.5}
+{"tag": "phi4", "exp": "truth", "key": "0.5|V25", "test_q_acc": 0.11845342706502636, "test_c_acc": 0.09209138840070298, "ppl_wikitext2": 21.703970686971857, "secs": 204.4}
+{"tag": "phi4", "exp": "truth", "key": "0.5|V50", "test_q_acc": 0.11669595782073813, "test_c_acc": 0.09173989455184535, "ppl_wikitext2": 21.742775441020626, "secs": 204.0}
+{"tag": "phi4", "exp": "truth", "key": "0.5|V75", "test_q_acc": 0.11687170474516696, "test_c_acc": 0.09490333919156414, "ppl_wikitext2": 21.857881459442748, "secs": 204.2}
+{"tag": "phi4", "exp": "truth", "key": "0.5|V100", "test_q_acc": 0.12003514938488577, "test_c_acc": 0.08892794376098419, "ppl_wikitext2": 21.80718058106875, "secs": 204.6}
+{"tag": "phi4", "exp": "truth", "key": "0.5|VX", "test_q_acc": 0.11968365553602812, "test_c_acc": 0.09349736379613356, "ppl_wikitext2": 20.899315508744454, "secs": 204.6}
+{"tag": "phi4", "exp": "truth", "key": "0.5|VC", "test_q_acc": 0.12196836555360281, "test_c_acc": 0.08769771528998242, "ppl_wikitext2": 20.408671898712143, "secs": 204.5}

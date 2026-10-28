@@ -1,0 +1,9 @@
+{"tag": "olmo7b", "exp": "fmt", "key": "1.0|dense", "test_q_acc": 0.2852372583479789, "test_c_acc": 0.2124780316344464, "ppl_wikitext2": 6.5512288921027855, "secs": 160.4}
+{"tag": "olmo7b", "exp": "fmt", "key": "0.7|C4|C4", "test_q_acc": 0.12636203866432338, "test_c_acc": 0.07908611599297012, "ppl_wikitext2": 12.906671574677494, "secs": 153.4}
+{"tag": "olmo7b", "exp": "fmt", "key": "0.7|QA_S", "test_q_acc": 0.1704745166959578, "test_c_acc": 0.10456942003514938, "ppl_wikitext2": 12.577748984793049, "secs": 153.2}
+{"tag": "olmo7b", "exp": "fmt", "key": "0.7|D_S", "test_q_acc": 0.16133567662565906, "test_c_acc": 0.08769771528998242, "ppl_wikitext2": 12.9955480085584, "secs": 153.3}
+{"tag": "olmo7b", "exp": "fmt", "key": "0.7|D_Srep", "test_q_acc": 0.16239015817223199, "test_c_acc": 0.08734622144112478, "ppl_wikitext2": 12.96276538199331, "secs": 152.9}
+{"tag": "olmo7b", "exp": "fmt", "key": "0.5|C4|C4", "test_q_acc": 0.07469244288224956, "test_c_acc": 0.03620386643233743, "ppl_wikitext2": 21.101463564558138, "secs": 139.8}
+{"tag": "olmo7b", "exp": "fmt", "key": "0.5|QA_S", "test_q_acc": 0.11704745166959578, "test_c_acc": 0.057469244288224954, "ppl_wikitext2": 20.43809061220384, "secs": 139.7}
+{"tag": "olmo7b", "exp": "fmt", "key": "0.5|D_S", "test_q_acc": 0.09244288224956063, "test_c_acc": 0.0648506151142355, "ppl_wikitext2": 20.799719430733944, "secs": 139.8}
+{"tag": "olmo7b", "exp": "fmt", "key": "0.5|D_Srep", "test_q_acc": 0.0968365553602812, "test_c_acc": 0.06555360281195079, "ppl_wikitext2": 20.79307274546598, "secs": 139.8}

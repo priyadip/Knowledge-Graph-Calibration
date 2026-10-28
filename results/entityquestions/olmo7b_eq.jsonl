@@ -1,0 +1,13 @@
+{"tag": "olmo7b", "key": "1.0|dense", "eq_acc": 0.26382237701349587, "test_q_acc": 0.2852372583479789, "param_keep": 1.0, "secs": 344.5}
+{"tag": "olmo7b", "key": "0.7|none|C4", "eq_acc": 0.15955594253373967, "test_q_acc": 0.14903339191564147, "param_keep": 0.8219215675050466, "secs": 333.3}
+{"tag": "olmo7b", "key": "0.7|C4|C4", "eq_acc": 0.14018284719198956, "test_q_acc": 0.12636203866432338, "param_keep": 0.8219215675050466, "secs": 334.6}
+{"tag": "olmo7b", "key": "0.7|C4|MIX:KG-D", "eq_acc": 0.13865912059207663, "test_q_acc": 0.14024604569420035, "param_keep": 0.8219215675050466, "secs": 334.6}
+{"tag": "olmo7b", "key": "0.7|MIX:KG-D|none", "eq_acc": 0.17087505441880713, "test_q_acc": 0.18541300527240773, "param_keep": 0.8219215675050466, "secs": 337.1}
+{"tag": "olmo7b", "key": "0.7|MIX:KG-D|MIX:KG-D", "eq_acc": 0.15106660861993906, "test_q_acc": 0.1694200351493849, "param_keep": 0.8219215675050466, "secs": 334.2}
+{"tag": "olmo7b", "key": "0.7|MIX:KG-D~|MIX:KG-D~", "eq_acc": 0.15650848933391381, "test_q_acc": 0.16748681898066783, "param_keep": 0.8219215675050466, "secs": 334.5}
+{"tag": "olmo7b", "key": "0.5|none|C4", "eq_acc": 0.10753156290814106, "test_q_acc": 0.09507908611599297, "param_keep": 0.7034276545845448, "secs": 306.8}
+{"tag": "olmo7b", "key": "0.5|C4|C4", "eq_acc": 0.08249891162385721, "test_q_acc": 0.07469244288224956, "param_keep": 0.7034276545845448, "secs": 308.4}
+{"tag": "olmo7b", "key": "0.5|C4|MIX:KG-D", "eq_acc": 0.09120592076621681, "test_q_acc": 0.08137082601054482, "param_keep": 0.7034276545845448, "secs": 312.0}
+{"tag": "olmo7b", "key": "0.5|MIX:KG-D|none", "eq_acc": 0.12538093164997824, "test_q_acc": 0.13374340949033392, "param_keep": 0.7034276545845448, "secs": 307.3}
+{"tag": "olmo7b", "key": "0.5|MIX:KG-D|MIX:KG-D", "eq_acc": 0.10143665650848933, "test_q_acc": 0.09718804920913884, "param_keep": 0.7034276545845448, "secs": 308.7}
+{"tag": "olmo7b", "key": "0.5|MIX:KG-D~|MIX:KG-D~", "eq_acc": 0.09882455376578145, "test_q_acc": 0.09578207381370826, "param_keep": 0.7034276545845448, "secs": 308.8}

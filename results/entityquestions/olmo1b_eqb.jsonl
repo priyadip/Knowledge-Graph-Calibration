@@ -1,0 +1,14 @@
+{"tag": "olmo1b", "key": "0.7|C4|C4", "eq_acc": 0.08794079233783196, "test_q_acc": null, "param_keep": 0.8375286356796776, "secs": 44.1}
+{"tag": "olmo1b", "key": "0.7|C4|MIX:EQ-D", "eq_acc": 0.09925990422289943, "test_q_acc": null, "param_keep": 0.8375286356796776, "secs": 43.4}
+{"tag": "olmo1b", "key": "0.7|MIX:EQ-D|none", "eq_acc": 0.07226817588158467, "test_q_acc": null, "param_keep": 0.8375286356796776, "secs": 43.3}
+{"tag": "olmo1b", "key": "0.7|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.10361340879407924, "test_q_acc": null, "param_keep": 0.8375286356796776, "secs": 44.0}
+{"tag": "olmo1b", "key": "0.7|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.10187200696560732, "test_q_acc": null, "param_keep": 0.8375286356796776, "secs": 43.5}
+{"tag": "olmo1b", "key": "0.7|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.1110143665650849, "test_q_acc": null, "param_keep": 0.8375286356796776, "secs": 42.5}
+{"tag": "olmo1b", "key": "0.7|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.11014366565084893, "test_q_acc": null, "param_keep": 0.8375286356796776, "secs": 42.3}
+{"tag": "olmo1b", "key": "0.5|C4|C4", "eq_acc": 0.07161515019590771, "test_q_acc": null, "param_keep": 0.7289082099752158, "secs": 39.9}
+{"tag": "olmo1b", "key": "0.5|C4|MIX:EQ-D", "eq_acc": 0.08445798868088812, "test_q_acc": null, "param_keep": 0.7289082099752158, "secs": 39.4}
+{"tag": "olmo1b", "key": "0.5|MIX:EQ-D|none", "eq_acc": 0.07292120156726165, "test_q_acc": null, "param_keep": 0.7289082099752158, "secs": 38.5}
+{"tag": "olmo1b", "key": "0.5|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.08728776665215499, "test_q_acc": null, "param_keep": 0.7289082099752158, "secs": 39.4}
+{"tag": "olmo1b", "key": "0.5|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.08968219416630388, "test_q_acc": null, "param_keep": 0.7289082099752158, "secs": 27.8}
+{"tag": "olmo1b", "key": "0.5|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.08750544188071398, "test_q_acc": null, "param_keep": 0.7289082099752158, "secs": 26.8}
+{"tag": "olmo1b", "key": "0.5|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.09316499782324772, "test_q_acc": null, "param_keep": 0.7289082099752158, "secs": 26.1}

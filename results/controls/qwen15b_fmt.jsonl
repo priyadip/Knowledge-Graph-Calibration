@@ -1,0 +1,9 @@
+{"tag": "qwen15b", "exp": "fmt", "key": "1.0|dense", "test_q_acc": 0.16274165202108964, "test_c_acc": 0.09103690685413006, "ppl_wikitext2": 10.487086775683352, "secs": 115.5}
+{"tag": "qwen15b", "exp": "fmt", "key": "0.7|C4|C4", "test_q_acc": 0.08488576449912126, "test_c_acc": 0.045166959578207384, "ppl_wikitext2": 22.695653458077846, "secs": 107.2}
+{"tag": "qwen15b", "exp": "fmt", "key": "0.7|QA_S", "test_q_acc": 0.12161687170474517, "test_c_acc": 0.06678383128295255, "ppl_wikitext2": 29.6517925997545, "secs": 107.7}
+{"tag": "qwen15b", "exp": "fmt", "key": "0.7|D_S", "test_q_acc": 0.11669595782073813, "test_c_acc": 0.06362038664323375, "ppl_wikitext2": 29.639363864090935, "secs": 108.0}
+{"tag": "qwen15b", "exp": "fmt", "key": "0.7|D_Srep", "test_q_acc": 0.11898066783831283, "test_c_acc": 0.06379613356766256, "ppl_wikitext2": 29.939051342121843, "secs": 107.7}
+{"tag": "qwen15b", "exp": "fmt", "key": "0.5|C4|C4", "test_q_acc": 0.05992970123022847, "test_c_acc": 0.04147627416520211, "ppl_wikitext2": 37.28270155789851, "secs": 95.9}
+{"tag": "qwen15b", "exp": "fmt", "key": "0.5|QA_S", "test_q_acc": 0.10017574692442882, "test_c_acc": 0.053075571177504395, "ppl_wikitext2": 45.41376543463388, "secs": 92.4}
+{"tag": "qwen15b", "exp": "fmt", "key": "0.5|D_S", "test_q_acc": 0.09050966608084358, "test_c_acc": 0.051142355008787346, "ppl_wikitext2": 49.62387717999886, "secs": 95.4}
+{"tag": "qwen15b", "exp": "fmt", "key": "0.5|D_Srep", "test_q_acc": 0.09191564147627417, "test_c_acc": 0.05061511423550088, "ppl_wikitext2": 46.22556621371606, "secs": 83.1}

@@ -1,0 +1,6 @@
+{
+ "tag": "qwen15b",
+ "exp": "mc",
+ "mc_items": 5690,
+ "mc_seqs": 22760
+}

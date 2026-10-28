@@ -1,0 +1,9 @@
+{"tag": "llama8b", "exp": "fmt", "key": "1.0|dense", "test_q_acc": 0.31687170474516696, "test_c_acc": 0.25272407732864677, "ppl_wikitext2": 7.324892266945847, "secs": 316.5}
+{"tag": "llama8b", "exp": "fmt", "key": "0.7|C4|C4", "test_q_acc": 0.12126537785588752, "test_c_acc": 0.06731107205623901, "ppl_wikitext2": 16.861970409215466, "secs": 296.0}
+{"tag": "llama8b", "exp": "fmt", "key": "0.7|QA_S", "test_q_acc": 0.1750439367311072, "test_c_acc": 0.1265377855887522, "ppl_wikitext2": 17.377855863756473, "secs": 293.1}
+{"tag": "llama8b", "exp": "fmt", "key": "0.7|D_S", "test_q_acc": 0.17152899824253076, "test_c_acc": 0.13216168717047452, "ppl_wikitext2": 17.03446306728839, "secs": 292.3}
+{"tag": "llama8b", "exp": "fmt", "key": "0.7|D_Srep", "test_q_acc": 0.1757469244288225, "test_c_acc": 0.1344463971880492, "ppl_wikitext2": 17.09324377945487, "secs": 292.5}
+{"tag": "llama8b", "exp": "fmt", "key": "0.5|C4|C4", "test_q_acc": 0.06537785588752197, "test_c_acc": 0.008963093145869946, "ppl_wikitext2": 33.45503517105944, "secs": 249.6}
+{"tag": "llama8b", "exp": "fmt", "key": "0.5|QA_S", "test_q_acc": 0.11546572934973638, "test_c_acc": 0.06133567662565905, "ppl_wikitext2": 32.91310499357046, "secs": 251.7}
+{"tag": "llama8b", "exp": "fmt", "key": "0.5|D_S", "test_q_acc": 0.11810193321616871, "test_c_acc": 0.0757469244288225, "ppl_wikitext2": 31.085449703522546, "secs": 251.6}
+{"tag": "llama8b", "exp": "fmt", "key": "0.5|D_Srep", "test_q_acc": 0.11599297012302284, "test_c_acc": 0.0757469244288225, "ppl_wikitext2": 31.274183132893274, "secs": 249.0}

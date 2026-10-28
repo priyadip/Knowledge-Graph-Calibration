@@ -1,0 +1,8 @@
+{"tag": "olmo1b", "key": "0.7|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.10709621245102308, "test_q_acc": null, "param_keep": 0.8375286356796776, "secs": 40.3}
+{"tag": "olmo1b", "key": "0.7|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.108619939050936, "test_q_acc": null, "param_keep": 0.8375286356796776, "secs": 42.5}
+{"tag": "olmo1b", "key": "0.7|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.11232041793643883, "test_q_acc": null, "param_keep": 0.8375286356796776, "secs": 42.6}
+{"tag": "olmo1b", "key": "0.7|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.10774923813670004, "test_q_acc": null, "param_keep": 0.8375286356796776, "secs": 41.1}
+{"tag": "olmo1b", "key": "0.5|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.08336961253809316, "test_q_acc": null, "param_keep": 0.7289082099752158, "secs": 38.9}
+{"tag": "olmo1b", "key": "0.5|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.08032215933826731, "test_q_acc": null, "param_keep": 0.7289082099752158, "secs": 39.4}
+{"tag": "olmo1b", "key": "0.5|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.09033521985198084, "test_q_acc": null, "param_keep": 0.7289082099752158, "secs": 31.0}
+{"tag": "olmo1b", "key": "0.5|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.08619939050936004, "test_q_acc": null, "param_keep": 0.7289082099752158, "secs": 24.2}

@@ -1,0 +1,8 @@
+{"tag": "qwen15b", "key": "0.7|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.10818458859381802, "test_q_acc": null, "param_keep": 0.7753840959421465, "secs": 26.3}
+{"tag": "qwen15b", "key": "0.7|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.10927296473661298, "test_q_acc": null, "param_keep": 0.7753840959421465, "secs": 26.8}
+{"tag": "qwen15b", "key": "0.7|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.1151501959077057, "test_q_acc": null, "param_keep": 0.7753840959421465, "secs": 26.2}
+{"tag": "qwen15b", "key": "0.7|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.11928602525032651, "test_q_acc": null, "param_keep": 0.7753840959421465, "secs": 26.2}
+{"tag": "qwen15b", "key": "0.5|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.08532868959512407, "test_q_acc": null, "param_keep": 0.6256202598482886, "secs": 23.3}
+{"tag": "qwen15b", "key": "0.5|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.08619939050936004, "test_q_acc": null, "param_keep": 0.6256202598482886, "secs": 26.2}
+{"tag": "qwen15b", "key": "0.5|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.10796691336525903, "test_q_acc": null, "param_keep": 0.6256202598482886, "secs": 26.1}
+{"tag": "qwen15b", "key": "0.5|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.0979538528515455, "test_q_acc": null, "param_keep": 0.6256202598482886, "secs": 26.3}

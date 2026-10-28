@@ -1,0 +1,12 @@
+{
+ "tag": "qwen15b",
+ "exp": "fmt",
+ "facts": 1965,
+ "tokens": {
+  "QA_S": 32758,
+  "D_S": 21333,
+  "D_Srep": 32755
+ },
+ "D_Srep_lines": 3008,
+ "D_Srep_facts_twice": 1043
+}

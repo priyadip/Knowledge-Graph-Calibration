@@ -1,0 +1,9 @@
+{
+ "tag": "llama8b",
+ "exp": "mc",
+ "bos": 128000,
+ "kg_text_tokens": 32704,
+ "mc_items": 5690,
+ "mc_seqs": 22760,
+ "mc_candidates_tokenized_alone": 0
+}

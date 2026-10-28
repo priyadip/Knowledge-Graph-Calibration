@@ -1,0 +1,14 @@
+{
+ "tag": "llama8b",
+ "exp": "fmt",
+ "bos": 128000,
+ "kg_text_tokens": 32704,
+ "facts": 1966,
+ "tokens": {
+  "QA_S": 32700,
+  "D_S": 21274,
+  "D_Srep": 32692
+ },
+ "D_Srep_lines": 3012,
+ "D_Srep_facts_twice": 1046
+}

@@ -1,0 +1,8 @@
+{"tag": "llama8b", "key": "0.7|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.17762298650413583, "test_q_acc": null, "param_keep": 0.7891980313315954, "secs": 131.3}
+{"tag": "llama8b", "key": "0.7|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.1760992599042229, "test_q_acc": null, "param_keep": 0.7891980313315954, "secs": 129.0}
+{"tag": "llama8b", "key": "0.7|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.17740531127557685, "test_q_acc": null, "param_keep": 0.7891980313315954, "secs": 129.1}
+{"tag": "llama8b", "key": "0.7|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.16608619939050936, "test_q_acc": null, "param_keep": 0.7891980313315954, "secs": 129.4}
+{"tag": "llama8b", "key": "0.5|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.10709621245102308, "test_q_acc": null, "param_keep": 0.6488087556675217, "secs": 110.2}
+{"tag": "llama8b", "key": "0.5|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.10905528950805399, "test_q_acc": null, "param_keep": 0.6488087556675217, "secs": 110.4}
+{"tag": "llama8b", "key": "0.5|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.11188506747932085, "test_q_acc": null, "param_keep": 0.6488087556675217, "secs": 110.5}
+{"tag": "llama8b", "key": "0.5|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.10622551153678711, "test_q_acc": null, "param_keep": 0.6488087556675217, "secs": 110.3}

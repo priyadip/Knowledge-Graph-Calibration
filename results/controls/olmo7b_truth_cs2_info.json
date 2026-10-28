@@ -1,0 +1,21 @@
+{
+ "tag": "olmo7b",
+ "exp": "truth",
+ "facts": 3021,
+ "tokens": {
+  "V0": 32764,
+  "V100": 32664,
+  "V25": 32729,
+  "V50": 32795,
+  "V75": 32728,
+  "VX": 32594,
+  "VC": 65428
+ },
+ "generation_batch": 48,
+ "replay": "dense and C4/C4 at both budgets identical to the stored sample-2 run (batch 48), checked after the run",
+ "replay_identical": {
+  "1.0|dense": true,
+  "0.7|C4|C4": true,
+  "0.5|C4|C4": true
+ }
+}

@@ -1,0 +1,13 @@
+{"tag": "mistral7b", "key": "1.0|dense", "eq_acc": 0.24423160644318676, "test_q_acc": 0.2618629173989455, "param_keep": 1.0, "secs": 326.3}
+{"tag": "mistral7b", "key": "0.7|none|C4", "eq_acc": 0.10187200696560732, "test_q_acc": 0.1156414762741652, "param_keep": 0.7668101882017726, "secs": 293.8}
+{"tag": "mistral7b", "key": "0.7|C4|C4", "eq_acc": 0.09229429690901175, "test_q_acc": 0.09876977152899824, "param_keep": 0.7668101882017726, "secs": 301.5}
+{"tag": "mistral7b", "key": "0.7|C4|MIX:KG-D", "eq_acc": 0.11319111885067479, "test_q_acc": 0.1383128295254833, "param_keep": 0.7668101882017726, "secs": 301.5}
+{"tag": "mistral7b", "key": "0.7|MIX:KG-D|none", "eq_acc": 0.16673922507618633, "test_q_acc": 0.20333919156414762, "param_keep": 0.7668101882017726, "secs": 299.2}
+{"tag": "mistral7b", "key": "0.7|MIX:KG-D|MIX:KG-D", "eq_acc": 0.173922507618633, "test_q_acc": 0.19560632688927942, "param_keep": 0.7668101882017726, "secs": 302.4}
+{"tag": "mistral7b", "key": "0.7|MIX:KG-D~|MIX:KG-D~", "eq_acc": 0.174140182847192, "test_q_acc": 0.19560632688927942, "param_keep": 0.7668101882017726, "secs": 304.1}
+{"tag": "mistral7b", "key": "0.5|none|C4", "eq_acc": 0.03678711362646931, "test_q_acc": 0.022847100175746926, "param_keep": 0.6109795952274522, "secs": 254.9}
+{"tag": "mistral7b", "key": "0.5|C4|C4", "eq_acc": 0.02285589899869395, "test_q_acc": 0.012126537785588752, "param_keep": 0.6109795952274522, "secs": 257.4}
+{"tag": "mistral7b", "key": "0.5|C4|MIX:KG-D", "eq_acc": 0.048541575968654764, "test_q_acc": 0.04868189806678383, "param_keep": 0.6109795952274522, "secs": 257.7}
+{"tag": "mistral7b", "key": "0.5|MIX:KG-D|none", "eq_acc": 0.08794079233783196, "test_q_acc": 0.12618629173989454, "param_keep": 0.6109795952274522, "secs": 255.4}
+{"tag": "mistral7b", "key": "0.5|MIX:KG-D|MIX:KG-D", "eq_acc": 0.10339573356552025, "test_q_acc": 0.12407732864674868, "param_keep": 0.6109795952274522, "secs": 257.7}
+{"tag": "mistral7b", "key": "0.5|MIX:KG-D~|MIX:KG-D~", "eq_acc": 0.0977361776229865, "test_q_acc": 0.11423550087873462, "param_keep": 0.6109795952274522, "secs": 260.1}

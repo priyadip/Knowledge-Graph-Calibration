@@ -1,0 +1,44 @@
+{
+ "source": "data/entityquestions/raw/dataset.zip",
+ "sha256": "015eb64a12fa2f9b2f95d2c78bba69779e0d200dbbd4b0772f3ce57bc00da9c5",
+ "facts": 7200,
+ "per_relation": 400,
+ "templates": {
+  "P112": "{s} was founded by {o}.",
+  "P127": "{s} is owned by {o}.",
+  "P131": "{s} is located in {o}.",
+  "P159": "The headquarters of {s} is in {o}.",
+  "P170": "{s} was created by {o}.",
+  "P175": "{s} was performed by {o}.",
+  "P176": "{s} is produced by {o}.",
+  "P20": "{s} died in {o}.",
+  "P26": "{s} is married to {o}.",
+  "P264": "{s} is represented by the music label {o}.",
+  "P276": "{s} is located in {o}.",
+  "P40": "{s}'s child is {o}.",
+  "P407": "{s} was written in {o}.",
+  "P413": "{s} plays the position of {o}.",
+  "P495": "{s} was created in {o}.",
+  "P69": "{s} was educated at {o}.",
+  "P740": "{s} was founded in {o}.",
+  "P800": "{s} is famous for {o}."
+ },
+ "files": {
+  "EQ-D": {
+   "lines": 7200,
+   "sha256": "2061fe77c45b15f51d9d77deab8307ac771efc03a738594ea993c50c861211bf"
+  },
+  "EQ-D~": {
+   "lines": 7200,
+   "sha256": "e2ecb31ae6274016e61804a1f6b9dfb8239b5c092d07665796bfb9d7d90ad397"
+  },
+  "EQ-QA": {
+   "lines": 7200,
+   "sha256": "fa7aacd510f32c4b92ef3f415e27d6f5e003ffde2f3bf0a3faf42af76c38993c"
+  },
+  "EQ-QA~": {
+   "lines": 7200,
+   "sha256": "63eeeea7531ba9cd5732b8af7729ba9ff8f9accf662c536abb7de817bf3d6452"
+  }
+ }
+}

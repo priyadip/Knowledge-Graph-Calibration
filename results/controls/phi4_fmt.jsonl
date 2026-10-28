@@ -1,0 +1,9 @@
+{"tag": "phi4", "exp": "fmt", "key": "1.0|dense", "test_q_acc": 0.25377855887521966, "test_c_acc": 0.23286467486818982, "ppl_wikitext2": 7.381787344782528, "secs": 260.3}
+{"tag": "phi4", "exp": "fmt", "key": "0.7|C4|C4", "test_q_acc": 0.12530755711775043, "test_c_acc": 0.09244288224956063, "ppl_wikitext2": 11.736948873053407, "secs": 246.2}
+{"tag": "phi4", "exp": "fmt", "key": "0.7|QA_S", "test_q_acc": 0.1516695957820738, "test_c_acc": 0.11704745166959578, "ppl_wikitext2": 12.569056496764576, "secs": 246.2}
+{"tag": "phi4", "exp": "fmt", "key": "0.7|D_S", "test_q_acc": 0.15448154657293497, "test_c_acc": 0.12161687170474517, "ppl_wikitext2": 12.788768882195289, "secs": 246.1}
+{"tag": "phi4", "exp": "fmt", "key": "0.7|D_Srep", "test_q_acc": 0.15588752196836556, "test_c_acc": 0.11827768014059754, "ppl_wikitext2": 12.716608367528696, "secs": 246.9}
+{"tag": "phi4", "exp": "fmt", "key": "0.5|C4|C4", "test_q_acc": 0.08717047451669596, "test_c_acc": 0.051142355008787346, "ppl_wikitext2": 19.14505427643966, "secs": 202.7}
+{"tag": "phi4", "exp": "fmt", "key": "0.5|QA_S", "test_q_acc": 0.10913884007029877, "test_c_acc": 0.07644991212653779, "ppl_wikitext2": 21.18379161850704, "secs": 202.9}
+{"tag": "phi4", "exp": "fmt", "key": "0.5|D_S", "test_q_acc": 0.11493848857644991, "test_c_acc": 0.08576449912126538, "ppl_wikitext2": 21.410375116029822, "secs": 203.0}
+{"tag": "phi4", "exp": "fmt", "key": "0.5|D_Srep", "test_q_acc": 0.11599297012302284, "test_c_acc": 0.08365553602811951, "ppl_wikitext2": 21.47751786201499, "secs": 203.2}

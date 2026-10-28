@@ -1,0 +1,14 @@
+{"tag": "phi4", "key": "0.7|C4|C4", "eq_acc": 0.12146277753591642, "test_q_acc": null, "param_keep": 0.774499028180156, "secs": 109.3}
+{"tag": "phi4", "key": "0.7|C4|MIX:EQ-D", "eq_acc": 0.13800609490639965, "test_q_acc": null, "param_keep": 0.774499028180156, "secs": 109.8}
+{"tag": "phi4", "key": "0.7|MIX:EQ-D|none", "eq_acc": 0.15498476273400086, "test_q_acc": null, "param_keep": 0.774499028180156, "secs": 109.5}
+{"tag": "phi4", "key": "0.7|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.14910753156290815, "test_q_acc": null, "param_keep": 0.774499028180156, "secs": 109.5}
+{"tag": "phi4", "key": "0.7|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.1495428820200261, "test_q_acc": null, "param_keep": 0.774499028180156, "secs": 109.5}
+{"tag": "phi4", "key": "0.7|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.1393121462777536, "test_q_acc": null, "param_keep": 0.774499028180156, "secs": 109.6}
+{"tag": "phi4", "key": "0.7|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.14235959947757945, "test_q_acc": null, "param_keep": 0.774499028180156, "secs": 109.6}
+{"tag": "phi4", "key": "0.5|C4|C4", "eq_acc": 0.07553330430996953, "test_q_acc": null, "param_keep": 0.624468904384453, "secs": 90.5}
+{"tag": "phi4", "key": "0.5|C4|MIX:EQ-D", "eq_acc": 0.10296038310840226, "test_q_acc": null, "param_keep": 0.624468904384453, "secs": 90.4}
+{"tag": "phi4", "key": "0.5|MIX:EQ-D|none", "eq_acc": 0.11362646930779277, "test_q_acc": null, "param_keep": 0.624468904384453, "secs": 90.3}
+{"tag": "phi4", "key": "0.5|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.12168045276447541, "test_q_acc": null, "param_keep": 0.624468904384453, "secs": 90.3}
+{"tag": "phi4", "key": "0.5|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.12080975185023944, "test_q_acc": null, "param_keep": 0.624468904384453, "secs": 90.3}
+{"tag": "phi4", "key": "0.5|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.10666086199390509, "test_q_acc": null, "param_keep": 0.624468904384453, "secs": 90.3}
+{"tag": "phi4", "key": "0.5|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.10296038310840226, "test_q_acc": null, "param_keep": 0.624468904384453, "secs": 90.3}

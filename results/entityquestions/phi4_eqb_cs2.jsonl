@@ -1,0 +1,8 @@
+{"tag": "phi4", "key": "0.7|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.1538963865912059, "test_q_acc": null, "param_keep": 0.774499028180156, "secs": 109.5}
+{"tag": "phi4", "key": "0.7|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.152590335219852, "test_q_acc": null, "param_keep": 0.774499028180156, "secs": 109.6}
+{"tag": "phi4", "key": "0.7|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.1410535481062255, "test_q_acc": null, "param_keep": 0.774499028180156, "secs": 109.6}
+{"tag": "phi4", "key": "0.7|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.1430126251632564, "test_q_acc": null, "param_keep": 0.774499028180156, "secs": 109.4}
+{"tag": "phi4", "key": "0.5|MIX:EQ-D|MIX:EQ-D", "eq_acc": 0.11340879407923378, "test_q_acc": null, "param_keep": 0.624468904384453, "secs": 90.3}
+{"tag": "phi4", "key": "0.5|MIX:EQ-D~|MIX:EQ-D~", "eq_acc": 0.11406181976491075, "test_q_acc": null, "param_keep": 0.624468904384453, "secs": 90.5}
+{"tag": "phi4", "key": "0.5|MIX:EQ-QA|MIX:EQ-QA", "eq_acc": 0.11210274270787984, "test_q_acc": null, "param_keep": 0.624468904384453, "secs": 90.5}
+{"tag": "phi4", "key": "0.5|MIX:EQ-QA~|MIX:EQ-QA~", "eq_acc": 0.11123204179364388, "test_q_acc": null, "param_keep": 0.624468904384453, "secs": 90.3}

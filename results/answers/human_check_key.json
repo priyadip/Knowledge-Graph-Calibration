@@ -1,0 +1,1450 @@
+{
+ "pool_sizes": {
+  "alias_only": 99,
+  "judge_only": 620,
+  "strict_only": 70,
+  "agree": 4587
+ },
+ "items": {
+  "1": {
+   "stratum": "agree",
+   "tag": "qwen7b",
+   "fact": 5121,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "2": {
+   "stratum": "agree",
+   "tag": "olmo7b",
+   "fact": 4405,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "3": {
+   "stratum": "judge_only",
+   "tag": "qwen15b",
+   "fact": 1232,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "4": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 4381,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "5": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 925,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "6": {
+   "stratum": "alias_only",
+   "tag": "olmo7b",
+   "fact": 4358,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "7": {
+   "stratum": "strict_only",
+   "tag": "olmo7b",
+   "fact": 44,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "8": {
+   "stratum": "alias_only",
+   "tag": "olmo7b",
+   "fact": 157,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "9": {
+   "stratum": "alias_only",
+   "tag": "olmo1b",
+   "fact": 1646,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "10": {
+   "stratum": "strict_only",
+   "tag": "qwen15b",
+   "fact": 1151,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "11": {
+   "stratum": "judge_only",
+   "tag": "qwen15b",
+   "fact": 4408,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "12": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 5419,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "13": {
+   "stratum": "agree",
+   "tag": "olmo7b",
+   "fact": 1545,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "14": {
+   "stratum": "strict_only",
+   "tag": "olmo7b",
+   "fact": 4718,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "15": {
+   "stratum": "alias_only",
+   "tag": "olmo7b",
+   "fact": 4667,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "16": {
+   "stratum": "judge_only",
+   "tag": "qwen15b",
+   "fact": 524,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "17": {
+   "stratum": "alias_only",
+   "tag": "olmo7b",
+   "fact": 3073,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "18": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 3905,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "19": {
+   "stratum": "judge_only",
+   "tag": "qwen7b",
+   "fact": 196,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "20": {
+   "stratum": "alias_only",
+   "tag": "olmo7b",
+   "fact": 5416,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "21": {
+   "stratum": "agree",
+   "tag": "olmo1b",
+   "fact": 700,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "22": {
+   "stratum": "judge_only",
+   "tag": "olmo1b",
+   "fact": 4474,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "23": {
+   "stratum": "strict_only",
+   "tag": "qwen7b",
+   "fact": 733,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "24": {
+   "stratum": "judge_only",
+   "tag": "olmo1b",
+   "fact": 3493,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "25": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 97,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "26": {
+   "stratum": "alias_only",
+   "tag": "qwen15b",
+   "fact": 1389,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "27": {
+   "stratum": "strict_only",
+   "tag": "qwen15b",
+   "fact": 1785,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "28": {
+   "stratum": "judge_only",
+   "tag": "olmo1b",
+   "fact": 4450,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "29": {
+   "stratum": "judge_only",
+   "tag": "qwen7b",
+   "fact": 4407,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "30": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 1614,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "31": {
+   "stratum": "judge_only",
+   "tag": "qwen15b",
+   "fact": 4371,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "32": {
+   "stratum": "judge_only",
+   "tag": "qwen7b",
+   "fact": 627,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "33": {
+   "stratum": "alias_only",
+   "tag": "olmo1b",
+   "fact": 1503,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "34": {
+   "stratum": "alias_only",
+   "tag": "olmo1b",
+   "fact": 200,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "35": {
+   "stratum": "judge_only",
+   "tag": "olmo1b",
+   "fact": 4459,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "36": {
+   "stratum": "judge_only",
+   "tag": "qwen15b",
+   "fact": 5349,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "37": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 1334,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "38": {
+   "stratum": "agree",
+   "tag": "olmo7b",
+   "fact": 2790,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "39": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 4471,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "40": {
+   "stratum": "strict_only",
+   "tag": "qwen7b",
+   "fact": 116,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "41": {
+   "stratum": "judge_only",
+   "tag": "qwen15b",
+   "fact": 4467,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "42": {
+   "stratum": "judge_only",
+   "tag": "qwen15b",
+   "fact": 4400,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "43": {
+   "stratum": "strict_only",
+   "tag": "qwen15b",
+   "fact": 1802,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "44": {
+   "stratum": "agree",
+   "tag": "olmo1b",
+   "fact": 4658,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "45": {
+   "stratum": "judge_only",
+   "tag": "qwen7b",
+   "fact": 637,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "46": {
+   "stratum": "judge_only",
+   "tag": "olmo1b",
+   "fact": 3074,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "47": {
+   "stratum": "judge_only",
+   "tag": "olmo1b",
+   "fact": 939,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "48": {
+   "stratum": "strict_only",
+   "tag": "qwen7b",
+   "fact": 2124,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "49": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 5416,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "50": {
+   "stratum": "judge_only",
+   "tag": "qwen15b",
+   "fact": 40,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "51": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 4388,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "52": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 885,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "53": {
+   "stratum": "alias_only",
+   "tag": "qwen15b",
+   "fact": 86,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "54": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 1571,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "55": {
+   "stratum": "judge_only",
+   "tag": "olmo1b",
+   "fact": 4370,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "56": {
+   "stratum": "alias_only",
+   "tag": "qwen15b",
+   "fact": 1646,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "57": {
+   "stratum": "alias_only",
+   "tag": "olmo7b",
+   "fact": 2473,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": false
+   }
+  },
+  "58": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 4564,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "59": {
+   "stratum": "alias_only",
+   "tag": "qwen15b",
+   "fact": 1309,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "60": {
+   "stratum": "agree",
+   "tag": "qwen7b",
+   "fact": 977,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "61": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 4358,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "62": {
+   "stratum": "judge_only",
+   "tag": "qwen7b",
+   "fact": 26,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "63": {
+   "stratum": "strict_only",
+   "tag": "olmo7b",
+   "fact": 4417,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "64": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 1097,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "65": {
+   "stratum": "judge_only",
+   "tag": "olmo1b",
+   "fact": 4460,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "66": {
+   "stratum": "judge_only",
+   "tag": "olmo1b",
+   "fact": 4368,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "67": {
+   "stratum": "strict_only",
+   "tag": "olmo7b",
+   "fact": 5527,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "68": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 376,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "69": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 955,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "70": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 2686,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "71": {
+   "stratum": "strict_only",
+   "tag": "olmo7b",
+   "fact": 4435,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "72": {
+   "stratum": "agree",
+   "tag": "qwen7b",
+   "fact": 1648,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "73": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 23,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "74": {
+   "stratum": "alias_only",
+   "tag": "olmo7b",
+   "fact": 3219,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "75": {
+   "stratum": "agree",
+   "tag": "qwen15b",
+   "fact": 5278,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "76": {
+   "stratum": "agree",
+   "tag": "olmo7b",
+   "fact": 4123,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "77": {
+   "stratum": "judge_only",
+   "tag": "olmo1b",
+   "fact": 1158,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "78": {
+   "stratum": "strict_only",
+   "tag": "qwen7b",
+   "fact": 2115,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "79": {
+   "stratum": "agree",
+   "tag": "qwen7b",
+   "fact": 4663,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "80": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 157,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "81": {
+   "stratum": "judge_only",
+   "tag": "qwen15b",
+   "fact": 4434,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "82": {
+   "stratum": "strict_only",
+   "tag": "olmo7b",
+   "fact": 2115,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "83": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 77,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "84": {
+   "stratum": "strict_only",
+   "tag": "olmo7b",
+   "fact": 1164,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "85": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 1504,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "86": {
+   "stratum": "strict_only",
+   "tag": "qwen15b",
+   "fact": 645,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "87": {
+   "stratum": "alias_only",
+   "tag": "olmo1b",
+   "fact": 1531,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "88": {
+   "stratum": "alias_only",
+   "tag": "qwen15b",
+   "fact": 1588,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "89": {
+   "stratum": "agree",
+   "tag": "qwen15b",
+   "fact": 1319,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "90": {
+   "stratum": "alias_only",
+   "tag": "olmo7b",
+   "fact": 1365,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "91": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 4423,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "92": {
+   "stratum": "strict_only",
+   "tag": "olmo7b",
+   "fact": 141,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "93": {
+   "stratum": "agree",
+   "tag": "qwen7b",
+   "fact": 290,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "94": {
+   "stratum": "agree",
+   "tag": "qwen7b",
+   "fact": 5567,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "95": {
+   "stratum": "alias_only",
+   "tag": "olmo7b",
+   "fact": 2011,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "96": {
+   "stratum": "agree",
+   "tag": "olmo7b",
+   "fact": 5083,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "97": {
+   "stratum": "alias_only",
+   "tag": "olmo1b",
+   "fact": 2124,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "98": {
+   "stratum": "alias_only",
+   "tag": "qwen15b",
+   "fact": 150,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "99": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 4355,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "100": {
+   "stratum": "strict_only",
+   "tag": "qwen15b",
+   "fact": 1261,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "101": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 4449,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "102": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 3772,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "103": {
+   "stratum": "strict_only",
+   "tag": "qwen7b",
+   "fact": 534,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "104": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 265,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "105": {
+   "stratum": "agree",
+   "tag": "olmo1b",
+   "fact": 424,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "106": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 5457,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": false
+   }
+  },
+  "107": {
+   "stratum": "agree",
+   "tag": "qwen7b",
+   "fact": 1594,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "108": {
+   "stratum": "strict_only",
+   "tag": "olmo7b",
+   "fact": 621,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "109": {
+   "stratum": "alias_only",
+   "tag": "olmo7b",
+   "fact": 1646,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "110": {
+   "stratum": "agree",
+   "tag": "olmo7b",
+   "fact": 5157,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "111": {
+   "stratum": "alias_only",
+   "tag": "olmo1b",
+   "fact": 207,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "112": {
+   "stratum": "alias_only",
+   "tag": "qwen7b",
+   "fact": 1374,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "113": {
+   "stratum": "agree",
+   "tag": "olmo1b",
+   "fact": 5528,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "114": {
+   "stratum": "judge_only",
+   "tag": "olmo7b",
+   "fact": 4364,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "115": {
+   "stratum": "judge_only",
+   "tag": "qwen7b",
+   "fact": 4434,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "116": {
+   "stratum": "alias_only",
+   "tag": "olmo7b",
+   "fact": 1523,
+   "rules": {
+    "alias": true,
+    "word": false,
+    "exact": false,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "117": {
+   "stratum": "agree",
+   "tag": "qwen7b",
+   "fact": 1651,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": true
+   }
+  },
+  "118": {
+   "stratum": "judge_only",
+   "tag": "qwen7b",
+   "fact": 384,
+   "rules": {
+    "alias": false,
+    "word": false,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  },
+  "119": {
+   "stratum": "alias_only",
+   "tag": "olmo7b",
+   "fact": 2909,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": true,
+    "judge_llama": false,
+    "judge": false
+   }
+  },
+  "120": {
+   "stratum": "strict_only",
+   "tag": "olmo7b",
+   "fact": 4821,
+   "rules": {
+    "alias": true,
+    "word": true,
+    "exact": false,
+    "judge_llama": true,
+    "judge": true
+   }
+  }
+ }
+}

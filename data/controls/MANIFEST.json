@@ -1,0 +1,20 @@
+{
+ "fmt_facts": 7139,
+ "truth": {
+  "lines": 7139,
+  "vx_type_checked": 7097,
+  "vx_fallback_no_types": 42,
+  "vx_length_tolerance_used": {
+   "1": 7132,
+   "2": 6,
+   "8": 1
+  }
+ },
+ "mc": {
+  "items": 5690,
+  "items_with_fewer_than_3_distractors": 0
+ },
+ "fmt_facts.json.sha256": "c831d77456ed8bb29a6888578af6d95e6f2a44e549301406fb635a0347d977e0",
+ "truth_variants.json.sha256": "0b31dd9254bdd2c105e5dc2165f335550ee42aa1f7f864fe6fde461303eec408",
+ "test_mc.json.sha256": "e653e1e818c5c617445dd56ece82a9bfaff0023eee68574fa2007f9f9832e47d"
+}
